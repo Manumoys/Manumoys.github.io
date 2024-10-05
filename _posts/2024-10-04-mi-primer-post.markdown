@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mi Primer Post"
-date: 2024-10-05 12:00:00 +0000
+date: 2024-10-04 21:00:00 +0000
 categories: blog
 ---
 
